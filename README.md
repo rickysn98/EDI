@@ -1,4 +1,4 @@
-# EDI
+# Calculator
+
 work done on uni
 
-Calculator
